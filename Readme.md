@@ -46,4 +46,5 @@ Now your screen should be looking something like this:
 
 And that's it, click on the start button to see the magic !!
 <br /><br />
-Note: the program will start only after 20 sec.
+Note: The program will start only after 20 sec.
+To exit the program press ``` q ``` in your keyboard
