@@ -12,8 +12,7 @@ If the game is running on the specific website that is mentioned here.
 
 1. Clone the project:
 open cmd as administrator and type in the following command <br /> 
-(or)
-<br />
+(or) <br />
 download and extract the zip:
 
 ```
