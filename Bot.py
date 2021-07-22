@@ -10,7 +10,7 @@ def click(x,y):
     win32api.SetCursorPos((x,y)) # Move to x and y position
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN,0,0)# click on that position
     time.sleep(0.01)# press for 0.01 sec,
-    #the delay is just because sometimes fail to execute if click is too fast
+    #the delay is just because sometimes click fails to execute if it's too fast
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0)# release the click
   
 # Get the screen resolution
