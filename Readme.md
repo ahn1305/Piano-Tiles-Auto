@@ -43,4 +43,6 @@ Now your screen should be looking something like this:
 
 <img src = "Images/fs.jpg" height= "500" width="700" /> <br />
 
+<hr />
 
+And that's it, Now click on the start button to see the magic !!
