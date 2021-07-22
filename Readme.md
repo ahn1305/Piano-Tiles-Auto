@@ -5,7 +5,7 @@
 
 The Idea of the project is to automate the piano tiles game that can work on any screen resolution and <br />
 If the game is running on the specific website that is mentioned here.
-<br />
+<br /><br />
 (Note): This project only runs on windows since we are using win32api (available only for windows).
 
 ## Instructions to setup the project
@@ -13,7 +13,7 @@ If the game is running on the specific website that is mentioned here.
 1. Clone the project:
 open cmd as administrator and type in the following command <br /> 
 (or) <br />
-download and extract the zip:
+download the zip and extract it:
 
 ```
 git clone https://github.com/ahn1305/Piano-Tiles-Auto.git
