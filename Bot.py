@@ -36,14 +36,14 @@ row_4_y = cx - 330
 
 time.sleep(20)
 while keyboard.is_pressed('q') == False: # checks if key q is not pressed, if pressed stop the program
-    if pyautogui.pixel(row_1_x,row_1_y)[0] == 0: # check for black
+    if pyautogui.pixel(row_1_x,row_1_y)[0] == 0: # check for black color in the specific x and y position
         click(row_1_x,row_1_y) # if true click 
 
-    if pyautogui.pixel(row_2_x,row_2_y)[0] == 0:  # check for black
-        click(row_2_x,row_2_y) # if true click 
+    if pyautogui.pixel(row_2_x,row_2_y)[0] == 0:
+        click(row_2_x,row_2_y) 
 
-    if pyautogui.pixel(row_3_x,row_3_y)[0] == 0:  # check for black
-        click(row_3_x,row_3_y) # if true click 
+    if pyautogui.pixel(row_3_x,row_3_y)[0] == 0: 
+        click(row_3_x,row_3_y)
 
-    if pyautogui.pixel(row_4_x,row_4_y)[0] == 0:  # check for black
-        click(row_4_x,row_4_y) # if true click 
+    if pyautogui.pixel(row_4_x,row_4_y)[0] == 0:
+        click(row_4_x,row_4_y)
