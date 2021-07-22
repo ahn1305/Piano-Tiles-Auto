@@ -34,7 +34,7 @@ row_3_y = cx - 330
 row_4_x = cx + 140
 row_4_y = cx - 330
 
-time.sleep(10)
+time.sleep(15)
 while keyboard.is_pressed('q') == False: # checks if key q is not pressed, if pressed stop the program
     if pyautogui.pixel(row_1_x,row_1_y)[0] == 0: # check for black
         click(row_1_x,row_1_y) # if true click 
