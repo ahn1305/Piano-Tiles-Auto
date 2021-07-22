@@ -32,7 +32,7 @@ pip install opencv-python
 ```
 python .\Bot.py
 ```
-Now there will be a 15 sec gap, during this time follow the 5th step
+&nbsp;&nbsp;Now there will be a 15 sec gap, during this time follow the 5th step
 
 5. Go the website opened and click on ``` f11 ``` Button to enter full screen
 Then press on the following button shown in the image below
