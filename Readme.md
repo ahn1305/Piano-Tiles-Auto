@@ -26,7 +26,7 @@ pip install keyboard
 pip install pyautogui
 pip install opencv-python
 ```
-3. Go to https://www.agame.com/game/magic-piano-tiles and click on play
+3. Go to https://www.agame.com/game/magic-piano-tiles and click on play button.
 
 4. The open cmd inside the project and run the Bot.py file:
 ```
@@ -37,6 +37,10 @@ python .\Bot.py
 5. Go the website opened and click on ``` f11 ``` Button to enter full screen <br />
 then press on the following button shown in the image below
 
-<img src = "Images/fullscrnbtn.png" height= "400" width="600" />
+<img src = "Images/fullscrnbtn.png" height= "400" width="600" /> <br />
+
+Now your screen should be looking something like this:
+
+<img src = "Images/fs.jpg" height= 500" width="700" /> <br />
 
 
