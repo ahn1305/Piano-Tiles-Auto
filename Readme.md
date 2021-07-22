@@ -3,8 +3,8 @@
 <img src = "Images/main.jpg" height= "300" />
 
 
-The Idea of the project is to automate the piano tiles game that can work on any screen resolution and <br />
-If the game is running on the specific website that is mentioned here.
+The idea of the project is to automate the piano tiles game that can work on any screen resolution and <br />
+if the game is running on the specific website that is mentioned here.
 <br /><br />
 (Note): This project only runs on windows since we are using win32api (available only for windows).
 
@@ -19,7 +19,7 @@ download the zip and extract it:
 git clone https://github.com/ahn1305/Piano-Tiles-Auto.git
 ```
 2. Install the required packages
-cd into the directory and install these libraries from an administrator terminal:
+Install these libraries from an administrator terminal:
 ```
 pip install pywin32
 pip install keyboard
@@ -28,13 +28,13 @@ pip install opencv-python
 ```
 3. Go to https://www.agame.com/game/magic-piano-tiles and click on play button.
 
-4. The open cmd inside the project and run the Bot.py file:
+4. Then open cmd inside the project and run the Bot.py file:
 ```
 python .\Bot.py
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;Now there will be a 15 sec gap, during this time follow the 5th step
+&nbsp;&nbsp;&nbsp;&nbsp;Now there will be a 20 sec gap for the program to run, during this time follow the 5th step
 
-5. Go the website opened and click on ``` f11 ``` Button to enter full screen <br />
+5. Go the website you opened and click on ``` f11 ``` button to enter fullscreen <br />
 then press on the following button shown in the image below
 
 <img src = "Images/fullscrnbtn.png" height= "400" width="600" /> <br />
