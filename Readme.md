@@ -6,13 +6,12 @@
 The Idea of the project is to automate the piano tiles game that can work on any screen resolution and <br />
 If the game is running on the specific website that is mentioned here.
 <br />
-(Note):This project only runs on windows since we are using win32api.
+(Note): This project only runs on windows since we are using win32api.
 
 ## Instructions to setup the project
 
 1. Clone the project:
-open cmd as administrator and type in the following command
-<br /> 
+open cmd as administrator and type in the following command <br /> 
 (or)
 <br />
 download and extract the zip:
