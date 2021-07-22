@@ -24,7 +24,6 @@ Install these libraries from an administrator terminal:
 pip install pywin32
 pip install keyboard
 pip install pyautogui
-pip install opencv-python
 ```
 3. Go to https://www.agame.com/game/magic-piano-tiles and click on play button.
 
