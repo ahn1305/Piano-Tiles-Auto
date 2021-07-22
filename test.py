@@ -34,3 +34,13 @@ win32api.SetCursorPos((row_4_x,row_4_y))
 
 # print(pa.displayMousePosition(row_2_x,row_2_y))
 # print(row_2_x,row_2_y)
+
+# import wmi
+# obj = wmi.WMI().Win32_PnPEntity(ConfigManagerErrorCode=0)
+
+# displays = [x for x in obj if 'DISPLAY' in str(x)]
+# lst = []
+# for item in displays:
+#    lst.append(item.Caption)
+   
+# print(len(lst))
