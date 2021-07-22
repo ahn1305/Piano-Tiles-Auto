@@ -3,8 +3,7 @@
 <img src = "Images/main.jpg" height= "300" />
 
 
-The Idea of the project is to automate the piano tiles game that can work on any screen resolution and
-<br />
+The Idea of the project is to automate the piano tiles game that can work on any screen resolution and <br />
 If the game is running on the specific website that is mentioned here.
 <br />
 (Note):This project only runs on windows since we are using win32api.
