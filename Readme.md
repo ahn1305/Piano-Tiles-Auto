@@ -44,4 +44,6 @@ Now your screen should be looking something like this:
 
 <hr />
 
-And that's it, Now click on the start button to see the magic !!
+And that's it, click on the start button to see the magic !!
+<br /><br />
+Note: the program will start only after 20 sec.

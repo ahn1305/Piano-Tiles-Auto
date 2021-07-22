@@ -4,7 +4,7 @@ import time
 import keyboard
 from win32api import GetSystemMetrics
 import win32api, win32con
- 
+  
 # Using win32api because it's faster than pyautogui
 def click(x,y):
     win32api.SetCursorPos((x,y)) # Move to x and y position
@@ -35,6 +35,7 @@ row_4_x = cx + 140
 row_4_y = cx - 330
 
 time.sleep(20)
+
 while keyboard.is_pressed('q') == False: # checks if key q is not pressed, if pressed stop the program
     if pyautogui.pixel(row_1_x,row_1_y)[0] == 0: # check for black color in the specific x and y position
         click(row_1_x,row_1_y) # if true click 
