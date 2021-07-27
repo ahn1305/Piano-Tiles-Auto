@@ -24,27 +24,22 @@ Install these libraries from an administrator terminal:
 pip install pywin32
 pip install keyboard
 pip install pyautogui
+pip install chromedriver_binary
+pip install selenium
 ```
-3. Go to https://www.agame.com/game/magic-piano-tiles and click on play button.
 
 4. Then open cmd inside the project and run the Bot.py file:
 ```
 python .\Bot.py
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;Now there will be a 20 sec gap for the program to run, during this time follow the 5th step
+&nbsp;&nbsp;&nbsp;&nbsp;The website will be opened automatically and do the required setup.
+&nbsp;&nbsp;&nbsp;&nbsp;Now there will be a 50 sec gap for the program to run, during this time follow the 4th step
 
-5. Go the website you opened and click on ``` f11 ``` button to enter fullscreen <br />
-then press on the following button shown in the image below
-
-<img src = "Images/fullscrnbtn.png" height= "400" width="600" /> <br />
-
-Now your screen should be looking something like this:
-
-<img src = "Images/fs.jpg" height= "500" width="700" /> <br />
+4. Click on play button
 
 <hr />
 
 And that's it, click on the start button to see the magic !!
 <br /><br />
-Note: The program will start only after 20 sec.
+Note: The program will start only after 50 sec.
 To exit the program press ``` q ``` in your keyboard
