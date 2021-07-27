@@ -32,14 +32,12 @@ pip install selenium
 ```
 python .\Bot.py
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;The website will be opened automatically and do the required setup.
-&nbsp;&nbsp;&nbsp;&nbsp;Now there will be a 50 sec gap for the program to run, during this time follow the 4th step
+&nbsp;&nbsp;&nbsp;&nbsp;The website will be opened automatically and the required setup will be done.
+Now there will be a 50 sec gap for the program to run, during this time follow the 4th step
 
-4. Click on play button
+4. Click on play button and then start button to see the magic
 
 <hr />
-
-And that's it, click on the start button to see the magic !!
 <br /><br />
 Note: The program will start only after 50 sec.
 To exit the program press ``` q ``` in your keyboard
