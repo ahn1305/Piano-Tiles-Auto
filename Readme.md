@@ -27,8 +27,7 @@ pip install pyautogui
 pip install chromedriver_binary
 pip install selenium
 ```
-
-4. Then open cmd inside the project and run the Bot.py file:
+3. Then open cmd inside the project and run the Bot.py file:
 ```
 python .\Bot.py
 ```
@@ -38,6 +37,6 @@ Now there will be a 50 sec gap for the program to run, during this time follow t
 4. Click on play button and then start button to see the magic
 
 <hr />
-<br /><br />
+
 Note: The program will start only after 50 sec.
 To exit the program press ``` q ``` in your keyboard
