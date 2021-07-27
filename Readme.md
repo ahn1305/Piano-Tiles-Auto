@@ -11,7 +11,7 @@ if the game is running on the specific website that is mentioned here.
 ## Instructions to setup the project
 
 1. Clone the project
-<br /> 
+
 open cmd as administrator and type in the following command <br /> 
 (or) <br />
 download the zip and extract it:
@@ -19,7 +19,8 @@ download the zip and extract it:
 ```
 git clone https://github.com/ahn1305/Piano-Tiles-Auto.git
 ```
-2. Install the required packages <br /> 
+2. Install the required packages
+
 Install these libraries from an administrator terminal:
 ```
 pip install pywin32
@@ -29,6 +30,7 @@ pip install chromedriver_binary
 pip install selenium
 ```
 3. Then open cmd inside the project and run the Bot.py file:
+
 ```
 python .\Bot.py
 ```
